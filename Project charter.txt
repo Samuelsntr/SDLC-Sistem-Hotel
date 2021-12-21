@@ -1,0 +1,33 @@
+PROJECT CHARTER 
+
+Judul Proyek 		: Pembuatan Website Promosi Hotel Mulia Resort Bali
+Tanggal Mulai Proyek	: 22 Desember 2021
+Tanggal Akhir Proyek	: 25 Februari 2022 
+
+Project Team : 		
+-	Meldodi Samuel Sianturi 
+-	Gerry Geraldy Latupeirissa 
+-	Amelia Dianti 
+-	Monalisa Dennatan 
+-	Gusti Ayu Made Indrayani Dewi 
+-	Gusi Ayu Tantyana Wira Devi
+
+Tujuan Proyek	: 
+Pembuatan website promosi Hotel Mulia Resort Bali berguna untuk meningkatkan pelayanan promosi hotel terhadap calon pengunjung, agar calon pengunjung dapat mengetahui secara lebih detail mengenai fasilitas apa yang tersedia dalam hotel ini. selain itu, pembuatan proyek website promosi ini bertujuan untuk mempermudah calon pengunjung untuk mencari info kontak pihak hotel untuk melakukan booking.
+Sedangkan jika dari sudut pandang hotel, website ini dapat membranding atau mempromosikan hotal Mulia Resort ini dengan jangkauan yang lebih luas. Serta bisa digunakan dalam waktu yang panjang. 
+
+Informasi Anggaran :	
+Biaya yang dianggarkan dalam pembuatan proyek ini sebesar Rp 20.000.000 yang dimana terdiri atas biaya pembuatan website dan biaya tenaga kerja.
+
+Project Management : 
+Manajemen proyek kami mengikuti standar Life Cycle Management yang diantaranya terdiri dari : 
+-	Inisiasi 
+-	Planning 
+-	Monitoring dan Controlling
+-	Closing atau Closure
+
+Pendekatan : 
+-	Melakukan meeting dengan client yaitu pihak Hotel Mulia Resort Bali.
+-	Menyatukan pendapat team dan client mengenai pembuatan website ini. 
+
+
